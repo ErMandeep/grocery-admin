@@ -28,8 +28,6 @@ $page = 'manage-orders';
   <section class="content">
     <!-- Small boxes (Stat box) -->
 
-
-
     <div class="box">
       <div class="box-header">
         <!-- <h3 class="box-title">Orders</h3> -->
